@@ -17,6 +17,7 @@ Vingle Engineering | https://medium.com/vingle-tech-blog |
 Salesforce Engineering | https://engineering.salesforce.com |
 Applo GraphQL | https://blog.apollographql.com |
 Auth0 | https://medium.com/@auth0 |
+Baquend | https://medium.baqend.com/ |
 
 
 ## 국내
